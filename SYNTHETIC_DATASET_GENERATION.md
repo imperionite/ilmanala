@@ -119,7 +119,7 @@ All data cleaning, imputation, and synthetic data generation were performed in R
 
 ---
 
-###Citation
+### Citation
 
 If you use this synthetic dataset, please cite:
 
