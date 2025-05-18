@@ -1,0 +1,141 @@
+"Emissions of Greenhouse Gases (Philippines)"
+
+"Year";"Sector and Source Categories";"Carbon Dioxide (CO2)";"Methane (CH4)";"Nitrous Oxide (N2O)";"Hydroflourocarbons (HFCs)"
+"2010";"ENERGY TOTAL EMISSIONS";50697.000;1887.000;520.000;.
+"2010";"ENERGY TOTAL CO2 EQUIVALENT";53105.000;.;.;.
+"2010";"..Energy Industries";32803.000;49.000;168.000;.
+"2010";"..Manufacturing Industries and Construction";11887.000;55.000;95.000;.
+"2010";"..Other Sectors";5995.000;1692.000;257.000;.
+"2010";"..Fugitive Emissions - Solid Fuels";..;90.000;..;.
+"2010";"..Fugitive Emissions - Oil and Natural Gas";12.000;1.000;0.000;.
+"2010";"TRANSPORT TOTAL EMISSIONS";23718.000;125.000;331.000;.
+"2010";"TRANSPORT TOTAL CO2 EQUIVALENT";24174.000;.;.;.
+"2010";"...Domestic Aviation";706.000;0.000;6.000;.
+"2010";"...Road Transport";20816.000;120.000;308.000;.
+"2010";"...Railways";..;..;..;.
+"2010";"...Water-borne Navigation";2196.000;5.000;17.000;.
+"2010";"...Other Transportation";..;..;..;.
+"2010";"AGRICULTURE TOTAL EMISSIONS";696.000;33852.000;8603.000;.
+"2010";"AGRICULTURE TOTAL CO2 EQUIVALENT";43152.000;.;.;.
+"2010";"..Rice Cultivation";..;22377.000;..;.
+"2010";"..Enteric Fermentation";..;8490.000;..;.
+"2010";"..Manure Management";..;2699.000;1082.000;.
+"2010";"..Direct N2O Emissions from Managed Soils";..;..;5694.000;.
+"2010";"..Indirect N2O Emissions from Managed Soils";..;..;1311.000;.
+"2010";"..Direct N2O Emissions from Manure Management";..;..;420.000;.
+"2010";"..Biomass Burning in Croplands and Grasslands";..;286.000;96.000;.
+"2010";"..Liming";2.000;..;..;.
+"2010";"..Urea Application";694.000;..;..;.
+"2010";"FORESTRY AND OTHER LAND USE TOTAL EMISSIONS";-37016.000;7.000;2.000;.
+"2010";"FORESTRY AND OTHER LAND USE TOTAL CO2 EQUIVALENT";-37007.000;.;.;.
+"2010";"..Biomass Carbon Stock Silvopasture";-51252.000;..;..;.
+"2010";"..Biomass Carbon Stock";11084.000;..;..;.
+"2010";"..Biomass Carbon Stock Deforestation";16125.000;..;..;.
+"2010";"..Biomass Carbon Stock Agroforestry/Perennial Crop";-12973.000;..;..;.
+"2010";"..Biomass Burning - Forests";..;7.000;2.000;.
+"2010";"INDUSTRIAL PROCESSES AND PRODUCT USE TOTAL EMISSIONS";7564.000;9.000;19.000;771.000
+"2010";"INDUSTRIAL PROCESS AND PRODUCT USE TOTAL CO2 EQUIVALENT";8363.000;.;.;.
+"2010";"..Mineral Industry";6477.000;..;..;..
+"2010";"..Chemical Industry";..;..;19.000;..
+"2010";"..Metal Industry";1084.000;9.000;..;..
+"2010";"..Non-Energy Products from Fuels and Solvent Use";3.000;..;..;..
+"2010";"..Product Uses as Substitutes for Ozone-Depleting Substances";..;..;..;771.000
+"2010";"WASTES TOTAL EMISSIONS";15.000;14527.000;1017.000;.
+"2010";"WASTES TOTAL CO2 EQUIVALENT";15559.000;.;.;.
+"2010";"..Solid Waste Disposal";..;4851.000;..;.
+"2010";"..Biological Treatment of Solid Waste";..;35.000;32.000;.
+"2010";"..Incineration and Open Burning of Waste";15.000;53.000;11.000;.
+"2010";"..Wastewater Treatment and Discharge";..;9588.000;974.000;.
+"2010";"TOTAL NATIONAL GHG EMISSIONS (CO2-e)";107345.000;.;.;.
+"2015";"ENERGY TOTAL EMISSIONS";71774.457;2554.620;565.125;.
+"2015";"ENERGY TOTAL CO2 EQUIVALENT";74894.202;.;.;.
+"2015";"..Energy Industries";51415.027;22.852;172.253;.
+"2015";"..Manufacturing Industries and Construction";13233.476;112.155;148.358;.
+"2015";"..Other Sectors";7085.061;2047.643;244.417;.
+"2015";"..Fugitive Emissions - Solid Fuels";.;371.290;.;.
+"2015";"..Fugitive Emissions - Oil and Natural Gas";40.893;0.680;0.097;.
+"2015";"TRANSPORT TOTAL EMISSIONS";30721.665;49.933;477.443;.
+"2015";"TRANSPORT TOTAL CO2 EQUIVALENT";31249.041;..;..;.
+"2015";"...Domestic Aviation";1335.100;0.261;9.899;.
+"2015";"...Road Transport";26237.223;41.330;444.475;.
+"2015";"...Railways";5.228;0.008;0.535;.
+"2015";"...Water-borne Navigation";3144.114;8.334;22.535;.
+"2015";"...Other Transportation";..;..;..;.
+"2015";"AGRICULTURE TOTAL EMISSIONS";570.158;37852.255;14281.136;.
+"2015";"AGRICULTURE TOTAL CO2 EQUIVALENT";52703.549;..;..;.
+"2015";"..Rice Cultivation";..;26468.537;..;.
+"2015";"..Enteric Fermentation";..;8222.367;..;.
+"2015";"..Manure Management";..;2806.568;4419.530;.
+"2015";"..Direct N2O Emissions from Managed Soils";..;..;6418.687;.
+"2015";"..Indirect N2O Emissions from Managed Soils";..;..;2132.749;.
+"2015";"..Direct N2O Emissions from Manure Management";..;..;1212.954;.
+"2015";"..Biomass Burning in Croplands and Grasslands";..;354.783;97.216;.
+"2015";"..Liming";7.788;..;..;.
+"2015";"..Urea Application";562.371;..;..;.
+"2015";"FORESTRY AND OTHER LAND USE TOTAL EMISSIONS";35668.313;..;..;.
+"2015";"FORESTRY AND OTHER LAND USE TOTAL CO2 EQUIVALENT";35668.313;.;.;.
+"2015";"..Biomass Carbon Stock Silvopasture";-65299.167;..;..;.
+"2015";"..Biomass Carbon Stock";31208.001;..;..;.
+"2015";"..Biomass Carbon Stock Deforestation";66644.506;..;..;.
+"2015";"..Biomass Carbon Stock Agroforestry/Perennial Crop";2177.695;..;..;.
+"2015";"..Biomass Burning - Forests";937.278;..;..;.
+"2015";"INDUSTRIAL PROCESSES AND PRODUCT USE TOTAL EMISSIONS";13032.214;30.261;..;2234.295
+"2015";"INDUSTRIAL PROCESS AND PRODUCT USE TOTAL CO2 EQUIVALENT";15296.770;.;.;.
+"2015";"..Mineral Industry";11192.357;..;..;..
+"2015";"..Chemical Industry";596.226;22.269;..;..
+"2015";"..Metal Industry";1187.208;7.992;..;..
+"2015";"..Non-Energy Products from Fuels and Solvent Use";56.423;..;..;..
+"2015";"..Product Uses as Substitutes for Ozone-Depleting Substances";..;..;..;2234.295
+"2015";"WASTES TOTAL EMISSIONS";2.236;22105.712;1067.771;.
+"2015";"WASTES TOTAL CO2 EQUIVALENT";23175.719;.;.;.
+"2015";"..Solid Waste Disposal";..;9303.506;..;.
+"2015";"..Biological Treatment of Solid Waste";..;70.936;40.282;.
+"2015";"..Incineration and Open Burning of Waste";2.236;9.020;1.537;.
+"2015";"..Wastewater Treatment and Discharge";..;12722.250;1025.952;.
+"2015";"TOTAL NATIONAL GHG EMISSIONS (CO2-e)";232987.594;.;.;.
+"2020";"ENERGY TOTAL EMISSIONS";95866.634;3000.853;986.896;.
+"2020";"ENERGY TOTAL CO2 EQUIVALENT";99854.384;.;.;.
+"2020";"..Energy Industries";74183.342;40.285;288.636;.
+"2020";"..Manufacturing Industries and Construction";10275.411;354.528;452.766;.
+"2020";"..Other Sectors";11398.112;2045.675;245.472;.
+"2020";"..Fugitive Emissions - Solid Fuels";..;560.204;..;.
+"2020";"..Fugitive Emissions - Oil and Natural Gas";9.769;0.162;0.023;.
+"2020";"TRANSPORT TOTAL EMISSIONS";28895.828;45.544;489.832;.
+"2020";"TRANSPORT TOTAL CO2 EQUIVALENT";29431.204;.;.;.
+"2020";"...Domestic Aviation";654.594;0.128;4.854;.
+"2020";"...Road Transport";25725.730;38.931;449.947;.
+"2020";"...Railways";4.591;0.007;0.470;.
+"2020";"...Water-borne Navigation";2337.051;6.205;16.780;.
+"2020";"...Other Transportation";173.863;0.273;17.783;.
+"2020";"AGRICULTURE TOTAL EMISSIONS";765.083;38434.227;14880.687;.
+"2020";"AGRICULTURE TOTAL CO2 EQUIVALENT";54079.997;.;.;.
+"2020";"..Rice Cultivation";..;26984.898;..;.
+"2020";"..Enteric Fermentation";..;8327.213;..;.
+"2020";"..Manure Management";..;2751.749;4406.452;.
+"2020";"..Direct N2O Emissions from Managed Soils";..;..;6875.216;.
+"2020";"..Indirect N2O Emissions from Managed Soils";..;..;2277.200;.
+"2020";"..Direct N2O Emissions from Manure Management";..;..;1220.157;.
+"2020";"..Biomass Burning in Croplands and Grasslands";..;370.367;101.662;.
+"2020";"..Liming";127.820;..;..;.
+"2020";"..Urea Application";637.263;..;..;.
+"2020";"FORESTRY AND OTHER LAND USE TOTAL EMISSIONS";-25935.063;..;..;.
+"2020";"FORESTRY AND OTHER LAND USE TOTAL CO2 EQUIVALENT";-25935.063;.;.;.
+"2020";"..Biomass Carbon Stock Silvopasture";-71354.677;..;..;.
+"2020";"..Biomass Carbon Stock";11247.006;..;..;.
+"2020";"..Biomass Carbon Stock Deforestation";31302.244;..;..;.
+"2020";"..Biomass Carbon Stock Agroforestry/Perennial Crop";2125.769;..;..;.
+"2020";"..Biomass Burning - Forests";744.594;..;..;.
+"2020";"INDUSTRIAL PROCESSES AND PRODUCT USE TOTAL EMISSIONS";13666.388;27.705;..;3078.199
+"2020";"INDUSTRIAL PROCESS AND PRODUCT USE TOTAL CO2 EQUIVALENT";16772.292;.;.;.
+"2020";"..Mineral Industry";11779.664;..;..;..
+"2020";"..Chemical Industry";559.974;20.915;..;..
+"2020";"..Metal Industry";1280.711;6.790;..;..
+"2020";"..Non-Energy Products from Fuels and Solvent Use";46.039;..;..;..
+"2020";"..Product Uses as Substitutes for Ozone-Depleting Substances";..;..;..;3078.199
+"2020";"WASTES TOTAL EMISSIONS";0.322;28646.324;1475.785;.
+"2020";"WASTES TOTAL CO2 EQUIVALENT";30122.431;.;.;.
+"2020";"..Solid Waste Disposal";..;11689.692;..;.
+"2020";"..Biological Treatment of Solid Waste";..;391.664;222.335;.
+"2020";"..Incineration and Open Burning of Waste";0.322;1.288;0.265;.
+"2020";"..Wastewater Treatment and Discharge";..;16563.680;1253.185;.
+"2020";"TOTAL NATIONAL GHG EMISSIONS (CO2-e)";204325.244;.;.;.
