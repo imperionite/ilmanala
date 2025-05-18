@@ -124,7 +124,7 @@ All data cleaning, imputation, and synthetic data generation were performed in R
 If you use this synthetic dataset, please cite:
 
 > Philippine Greenhouse Gas Inventory Report, Climate Change Commission  
-> Data processed and extended by Arnel Imperial, 2025.
+> Data processed and extended by [Arnel Imperial](https://github.com/imperionite), 2025.
 
 ---
 
