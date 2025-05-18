@@ -22,6 +22,8 @@ conda list
 jupyter lab
 # Generating virtual env's package listing
 conda list -n r_env > environment.txt
+# To install R packages (common)
+conda install -c conda-forge r-{R_package_name}
 ```
 
 ## Synthetic Greenhouse Gas Emissions Dataset (Philippines, 2010–2050) Generation

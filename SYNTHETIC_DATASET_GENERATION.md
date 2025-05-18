@@ -41,6 +41,15 @@ To support long-term forecasting and simulation beyond the original dataset, we 
   - In cases where insufficient data points were available to build a reliable model, the last known value was carried forward as a conservative estimate.
   - This approach mimics real-world data gaps while ensuring continuity in the dataset.
 
+- **Exclusion of Aggregated 'TOTAL' Sector Rows:**
+  These entries represent pre-aggregated totals that are derived from summing individual sub-sector emissions. Including these rows alongside sub-sector data would lead to:
+
+  - Double counting of emissions during aggregation or analysis.
+  - Inconsistent data granularity, mixing detailed and summary values in the same dataset.
+  - Biased model training or forecasting, since totals could dominate trends compared to their constituent components.
+
+  -
+
 - **Handling of Missing Values (NA):**
 
   - Some NA values remain in the synthetic portion due to absent historical patterns for certain sector-gas pairs.
