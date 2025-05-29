@@ -53,6 +53,6 @@ The data for years 2021–2050 are synthetic projections based on linear regress
 This dataset is intended for research, educational, and exploratory purposes only.
 Please refer to the original PSA source for official and authoritative greenhouse gas emissions data.
 
-### Author/Developer
+### Author
 
 [Arnel Imperial](https://github.com/imperionite)
